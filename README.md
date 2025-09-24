@@ -19,4 +19,4 @@ As a task of CODTECH internship, I built a chrome extension . I aim to develop a
 
 # OUTPUT OF TASK
 
-<img width="620" height="517" alt="Image" src="https://github.com/user-attachments/assets/3ca49a18-246b-4215-9915-85af04a02dfb" />
+<img width="1837" height="849" alt="Image" src="https://github.com/user-attachments/assets/de733f31-b292-44a3-8daa-5027c6f4b689" />
